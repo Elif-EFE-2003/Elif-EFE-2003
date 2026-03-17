@@ -29,7 +29,7 @@ jobs:
       # Show the status of the build for debugging
       - run: git status
 
-      # Push the changes using inline git commands
+      # Commit & Push changes safely (exit code 1 önlendi)
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
