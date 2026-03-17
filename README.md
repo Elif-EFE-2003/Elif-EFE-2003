@@ -1,4 +1,4 @@
-[![MasterHead](https://online.maryville.edu/wp-content/uploads/sites/97/2023/09/video-game-developer.jpg)
+   [![MasterHead](https://online.maryville.edu/wp-content/uploads/sites/97/2023/09/video-game-developer.jpg)
 <h1 align="center">Hi 👋, I'm Elif EFE</h1>
 <h3 align="center">A final-year Software Engineering student focused on game development and immersive technologies</h3>
 
@@ -26,3 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elif-efe-2003&show_icons=true&locale=en" alt="elif-efe-2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elif-efe-2003&" alt="elif-efe-2003" /></p>
+
+
+![snake gif](https://github.com/Elif-EFE-2003/Elif-EFE-2003/blob/output/github-contribution-grid-snake.gif)
